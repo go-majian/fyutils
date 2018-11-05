@@ -1,4 +1,4 @@
-package manger
+package fyutils
 
 import (
 	"testing"
